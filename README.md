@@ -10,7 +10,7 @@ Ensure you have .NET 6.0 installed on your system. You can download it from http
 ## Create a LibSharedMedia Addon with this App
 1. **Download this GitHub Repo**
 2. **Move the BaseLibSharedMedia Folder:** Place the "BaseLibSharedMedia" folder into the "Addons" folder of your desired game version.
-3. **Adjust Folder Name and .Toc File:** Rename the "BaseLibSharedMedia" folder and the corresponding ".toc" file to your desired names.
+3. **Adjust Folder Name and .Toc File:** Rename the "BaseLibSharedMedia" folder and the corresponding ".toc" file to your desired names (THEY NEED TO MATCH!).
 4. **Set the Title Variable:** Modify the "Title" variable in the ".toc" file to the desired in-game title for your addon.
 5. **Add Media:** Place your media files (textures, sounds, fonts) within the "\Media" folder inside the "BaseLibSharedMedia" folder. You can organize them in subfolders as needed.
 6. **Copy Media Folder Path:** Right-click on the "\Media" folder and copy its full path.
