@@ -1,0 +1,8 @@
+## Interface: 110002, 110005
+## Version: 1.0.0
+## Title: Base Lib Shared Media Addon
+## Author: Rasu | Larsj_02
+## DefaultState: enabled
+## IconAtlas: TeleportationNetwork-Ardenweald-32x32
+
+embed.xml
